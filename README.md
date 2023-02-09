@@ -1,4 +1,5 @@
-os231
-GitHub | LOG
+# os231
 
-May the fork() be with you!
+[GitHub](https://github.com/rafimadani/os231/) | [LOG](TXT/mylog.txt)
+
+## May the fork() be with you!
