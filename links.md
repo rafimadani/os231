@@ -1,7 +1,7 @@
---
-:permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By rafimadani</span>
+permalink: LINKS/
+---
+<span style="color:red; font-weight:bold; font-size:larger;">By rafi madani</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
