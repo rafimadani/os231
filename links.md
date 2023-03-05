@@ -36,6 +36,18 @@ This video contains a basic explanation of cybersecurity, starting from what cyb
 Internet privacy is a complicated nevertheless interersting issue. This article collects some simple steps that might keep you safe in terms of privacy on the internet.
 
 
+WEEK 03
+
+1. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
+This is a good start to get to know file systems on operating systems. This article covers various topics such as attributes, file types, directories and more.
+
+2. [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM)<br>
+This video from CrashCourse Channel talks about how some popular file formats like txt, wave, and bitmap are encoded and decoded, giving us pretty pictures and lifelike recordings from just strings of 1's and 0's. Also, discussing how our computers are able to keep all this data organized and readily accessible to users. 
+
+3. [File Systems as Fast As Possible](https://youtu.be/BV0-EPUYuQc)<br>
+This video talks about the differences between file systems, and what a file system actually does. What is NTFS, FAT32, exFAT? and others are explained in a video that is only 5 minutes long.
+
+
 
 
 
