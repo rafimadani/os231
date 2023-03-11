@@ -13,6 +13,6 @@ This is {{ site.title }} and I am rafimadani.
 This is the way!
 <br>
 <hr>
-&copy; 2022 --- rafimadani --- Version: 26-feb-2023.
+&copy; 2023 --- rafimadani --- Version: 26-feb-2023.
 <hr>
 <br>

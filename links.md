@@ -53,7 +53,6 @@ This video talks about the differences between file systems, and what a file sys
 
 
 
-
 <br>
 <hr>
 &copy; 2023 --- rafimadani --- Version: 18-feb-2023.
