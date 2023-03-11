@@ -47,6 +47,16 @@ This video from CrashCourse Channel talks about how some popular file formats li
 3. [File Systems as Fast As Possible](https://youtu.be/BV0-EPUYuQc)<br>
 This video talks about the differences between file systems, and what a file system actually does. What is NTFS, FAT32, exFAT? and others are explained in a video that is only 5 minutes long.
 
+WEEK 04
+
+1. [How Operating Systems Manages Address Space](https://study.com/academy/lesson/how-operating-systems-manages-address-space.html)<br>
+This article summarizes some concepts about How Operating System Managers Address Space, specifically address space. This article also discusses swapping and protecting memory from the actions of other programs.
+
+2. [Introduction to Memory Management in Operating System](https://www.studytonight.com/operating-system/memory-management)<br>
+Another great article on memory management in operating systems, covering things like swapping, memory allocation, paging, fragmentation, and more.
+
+3. [Paging in Operating Systems with Example & Working](https://youtu.be/pJ6qrCB8pDw)<br>
+This video provides an overview of paging on the operating system. This video also discusses examples of problems using images that are easy to understand.
 
 
 
