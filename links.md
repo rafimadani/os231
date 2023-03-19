@@ -58,6 +58,16 @@ Another great article on memory management in operating systems, covering things
 3. [Paging in Operating Systems with Example & Working](https://youtu.be/pJ6qrCB8pDw)<br>
 This video provides an overview of paging on the operating system. This video also discusses examples of problems using images that are easy to understand.
 
+WEEK 05
+
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This article is a good introduction to virtual systems in operating systems. Some of the topics discussed include demand paging, page faults, swapping, thrashing, and others.
+
+2. [What is virtual memory? ? - Gary explains](https://youtu.be/2quKyPnUShQ)<br>
+This video explains virtual memory from scratch. Some of the topics discussed are memory management units, mapping, virtual addresses, lazy allocation, and several other concepts. Also shown are some examples that can further enhance understanding.
+
+3. [What are the Page Replacement Algorithms?](https://afteracademy.com/blog/what-are-the-page-replacement-algorithms)<br>
+This article will introduce you to the concept of page replacement, which is used in memory management. You will understand the definition, need, and various algorithms related to page replacement.
 
 
 
