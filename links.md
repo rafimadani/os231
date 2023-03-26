@@ -67,10 +67,29 @@ This article is a good introduction to virtual systems in operating systems. Som
 This video explains virtual memory from scratch. Some of the topics discussed are memory management units, mapping, virtual addresses, lazy allocation, and several other concepts. Also shown are some examples that can further enhance understanding.
 
 3. [What are the Page Replacement Algorithms?](https://afteracademy.com/blog/what-are-the-page-replacement-algorithms)<br>
-This article will introduce you to the concept of page replacement, which is used in memory management. You will understand the definition, need, and various algorithms related to page replacement.
+This article will introduce you to the concept of page replacement, which is used in memory management. You will understand the definition, need, and various algorithms that are related to page replacement.
+
+=
+n of Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)<br>
+This article is a good starting point for understanding process management in the operating system. There are also some practice questions that can make our understanding better.
+
+2. [Operating System - Multi-Threading](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
+This article explains some important concepts about threads in operating systems, such as the difference between a thread and a process, the advantages of threads, the types of threads and their advantages and disadvantages, and much more.
+
+3. [Multitasking vs Multithreading vs Multiprocessing](https://youtu.be/Tn0u-IIBmtc)<br>
+Modern operating systems support multitasking (especially preemptive multitasking), multithreading, and multiprocessing (including symmetric multiprocessing and heterogeneous multiprocessing). But what are they? Are they different? What do software engineers need to know about these different paradigms? This video will explain!
 
 
+WEEK 06
 
+1. [Introduction of Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)<br>
+This article is a good starting point for understanding process management in the operating system. There are also some practice questions that can make our understanding better.
+
+2. [Operating System - Multi-Threading](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
+This article explains some important concepts about threads in operating systems, such as the difference between a thread and a process, the advantages of threads, the types of threads and their advantages and disadvantages, and much more.
+
+3. [Multitasking vs Multithreading vs Multiprocessing](https://youtu.be/Tn0u-IIBmtc)<br>
+Modern operating systems support multitasking (especially preemptive multitasking), multithreading, and multiprocessing (including symmetric multiprocessing and heterogeneous multiprocessing). But what are they? Are they different? What do software engineers need to know about these different paradigms? This video will explain!
 
 
 <br>
