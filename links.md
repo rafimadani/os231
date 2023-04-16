@@ -91,6 +91,16 @@ This article explains some important concepts about threads in operating systems
 3. [Multitasking vs Multithreading vs Multiprocessing](https://youtu.be/Tn0u-IIBmtc)<br>
 Modern operating systems support multitasking (especially preemptive multitasking), multithreading, and multiprocessing (including symmetric multiprocessing and heterogeneous multiprocessing). But what are they? Are they different? What do software engineers need to know about these different paradigms? This video will explain!
 
+WEEK 07
+
+1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/?ref=lbp)<br>
+This article is a good introduction to deadlocks in operating systems. There are also some practice questions that can make our understanding better.
+
+2. [Deadlock in Operating System](https://youtu.be/UVo9mGARkhQ)<br>
+In this deadlock in OS video tutorial, we will understand what is a deadlock in Operating systems, what are the conditions that result in deadlocks & strategies for handling deadlocks.
+
+3. [What is a semaphore? How do they work? (Example in C)](https://youtu.be/ukM_zzrIeXs)<br>
+In this video, Jacob Sober tries to provide some insight into how they work, and an example of where you could use semaphores to coordinate different processes.
 
 <br>
 <hr>
