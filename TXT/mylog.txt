@@ -57,4 +57,12 @@ ZCZC W07 40 L03 GitHub related
 ZCZC W07 160 L09 Weekly Assignments
 ZCZC W07 130 L06 References/Books/Document/Browsing/GSGS related
 ZCZC W07 60 L05 Quiz related including studying
-ZCZC W07 50 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 50 L32 YouTube: watching OS related topics, etc
+ZCZC W08 25 L00 General, etc.
+ZCZC W08 35 L01 SCELE/Discord related
+ZCZC W08 200 L02 offline and online class relates
+ZCZC W08 30 L03 GitHub related
+ZCZC W08 200 L09 Weekly Assignments
+ZCZC W08 100 L06 References/Books/Document/Browsing/GSGS related
+ZCZC W08 60 L05 Quiz related including studying
+ZCZC W08 100 L32 YouTube: watching OS related topics, etc. 

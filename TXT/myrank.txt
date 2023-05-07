@@ -11,3 +11,5 @@ ZCWC W06 hernowo-ari
 ZCWC W06 linusabhyasaui
 ZCWC W07 mrtrq
 ZCWC W07 msatrioh
+ZCWC W08 hernowo-ari
+ZCWC W08 idpadt
